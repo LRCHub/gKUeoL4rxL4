@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "生活の果てに音楽が鳴る",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-01-14T04:45:46.788448Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "生活の果てに音楽が鳴る",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_生活の果てに音楽が鳴る_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "生活の果てに音楽が鳴る",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_生活の果てに音楽が鳴る_amazarashi.txt"
+    }
+  ]
+}
